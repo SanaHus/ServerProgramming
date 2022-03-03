@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ThirdGradeBabo",
+    "\\ThirdGradeBabo\\ThirdGradeBabo"
   ],
-  "SelectedNode": "\\ServerProgramming.wsp",
+  "SelectedNode": "\\ThirdGradeBabo\\ThirdGradeBabo\\ThirdGradeBabo.cpp",
   "PreviewInSolutionExplorer": false
 }
