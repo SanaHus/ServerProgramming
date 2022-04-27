@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JfgqUrhz9lrJOd3jjKBwo9FfGaye+vuEkEUSkykCXRmdzVEq2dh0Ju4axE4WK7nKPIjiJgr/ynC3x5o3vtM84w==",
+  "dgSpecHash": "usCTnjNFgcoyEr40+646Y2xmW5u8c0MNni9sCDIFMU1xdYZq6sQQS6UVJ3At8URJqOy2ShjX34VQfm1h0sIoow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cyu03\\OneDrive\\바탕 화면\\server_chat\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\cyu03\\OneDrive\\문서\\ServerProgramming\\server_chat\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

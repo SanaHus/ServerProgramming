@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyu03\\OneDrive\\바탕 화면\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\Users\\cyu03\\OneDrive\\문서\\ServerProgramming\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyu03\\OneDrive\\바탕 화면\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\Users\\cyu03\\OneDrive\\문서\\ServerProgramming\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyu03\\OneDrive\\바탕 화면\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\cyu03\\OneDrive\\문서\\ServerProgramming\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\cyu03\\OneDrive\\바탕 화면\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "C:\\Users\\cyu03\\OneDrive\\문서\\ServerProgramming\\server_chat\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\cyu03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyu03\\OneDrive\\바탕 화면\\server_chat\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\Users\\cyu03\\OneDrive\\문서\\ServerProgramming\\server_chat\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cyu03\\AppData\\Roaming\\NuGet\\NuGet.Config",
